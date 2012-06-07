@@ -1,0 +1,4 @@
+[19-Mar-2012 19:22:44] PHP Fatal error:  Call to undefined function  get_header() in /home4/avantife/public_html/avantifellows.org/wp-content/themes/greenapplesolutions/index.php on line 1
+[19-Mar-2012 19:22:45] PHP Fatal error:  Call to undefined function  get_header() in /home4/avantife/public_html/avantifellows.org/wp-content/themes/greenapplesolutions/index.php on line 1
+[10-May-2012 22:49:36] PHP Fatal error:  Call to undefined function  get_header() in /home4/avantife/public_html/avantifellows.org/wp-content/themes/greenapplesolutions/index.php on line 1
+[10-May-2012 22:49:36] PHP Fatal error:  Call to undefined function  get_header() in /home4/avantife/public_html/avantifellows.org/wp-content/themes/greenapplesolutions/index.php on line 1

@@ -1,0 +1,43 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Show Content Only\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/show-content-only\n"
+"POT-Creation-Date: 2011-08-26 16:44:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-08-26 10:48-0700\n"
+"Last-Translator: Zack Katz, Katz Web Services Inc. <zack@katzwebservices.com>\n"
+"Language-Team: \n"
+
+#: content-only.php:65
+msgid "Content Only:"
+msgstr ""
+
+#: content-only.php:66
+msgid "Content, Tags &amp; Cats:"
+msgstr "Le content de mer!"
+
+#: content-only.php:67
+msgid "Content &amp; Tags:"
+msgstr ""
+
+#: content-only.php:68
+msgid "Content &amp; Cats:"
+msgstr ""
+
+#: content-only.php:71
+msgid "You must publish or save this post before Show Content Only links become available."
+msgstr ""
+
+#: content-only.php:77
+#: content-only.php:78
+msgid "Show Content Only Links"
+msgstr ""
+
+#: content-only.php:112
+msgid "(more...)"
+msgstr ""
+
